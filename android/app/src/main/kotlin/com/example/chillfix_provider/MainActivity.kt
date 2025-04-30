@@ -1,0 +1,5 @@
+package com.example.chillfix_provider
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
