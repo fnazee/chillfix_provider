@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372487863268",
+    "project_id": "chillfix-app",
+    "storage_bucket": "chillfix-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372487863268:android:5875822aba78552e53e5f1",
+        "android_client_info": {
+          "package_name": "com.example.chillfix_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtq83DL3hEha-Ceser6IfGGwMMa4HHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372487863268:android:332a1ebeca5d873853e5f1",
+        "android_client_info": {
+          "package_name": "com.example.customerapp_chillfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtq83DL3hEha-Ceser6IfGGwMMa4HHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

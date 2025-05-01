@@ -1,3 +1,5 @@
+import 'package:chillfix_provider/firebase_options.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
@@ -5,7 +7,12 @@ import 'package:chillfix_provider/screens/login_screen.dart';
 import 'package:chillfix_provider/screens/dashboard_screen.dart';
 import 'package:chillfix_provider/services/auth_service.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  // Initialize Firebase
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(
     MultiProvider(
       providers: [
