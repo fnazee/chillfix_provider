@@ -12,7 +12,20 @@
           "package_name": "com.example.chillfix_provider"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "372487863268-1a0r6m5vvrqgtkfv10cfuals5g56qo6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chillfix_provider",
+            "certificate_hash": "f2539ce449965db3ba131ce1d33b5e0edb4b9f71"
+          }
+        },
+        {
+          "client_id": "372487863268-jqj7m5pp63q0c2f27vtl3j95b11mfhrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAbtq83DL3hEha-Ceser6IfGGwMMa4HHx4"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372487863268-jqj7m5pp63q0c2f27vtl3j95b11mfhrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372487863268-7uar2n6lno82n4co1o93mld4bd1mghb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chillfixProvider"
+              }
+            }
+          ]
         }
       }
     },
@@ -31,7 +56,20 @@
           "package_name": "com.example.customerapp_chillfix"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "372487863268-lpu51lt0vma7884lt0ga57ddntcd7het.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customerapp_chillfix",
+            "certificate_hash": "f2539ce449965db3ba131ce1d33b5e0edb4b9f71"
+          }
+        },
+        {
+          "client_id": "372487863268-jqj7m5pp63q0c2f27vtl3j95b11mfhrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAbtq83DL3hEha-Ceser6IfGGwMMa4HHx4"
@@ -39,7 +77,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372487863268-jqj7m5pp63q0c2f27vtl3j95b11mfhrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372487863268-7uar2n6lno82n4co1o93mld4bd1mghb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chillfixProvider"
+              }
+            }
+          ]
         }
       }
     }
